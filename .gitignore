@@ -1,0 +1,8 @@
+node_modules/
+.next/
+out/
+build/
+tsconfig.tsbuildinfo
+.DS_Store
+*.pem
+npm-debug.log*
